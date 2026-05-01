@@ -54,6 +54,7 @@ Open source tools are strongly preferred. Proprietary or restrictively licensed 
 - [parse](https://github.com/r1chardj0n3s/parse) - "Parse strings using a specification based on the Python format() syntax."
 - [PETL](https://github.com/petl-developers/petl) - "a general purpose Python package for extracting, transforming and loading tables of data."
 - [polars](https://github.com/pola-rs/polars) - "Extremely fast Query Engine for DataFrames, written in Rust."
+- [PyMuPDF](https://github.com/pymupdf/PyMuPDF) - "a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents."
 - [PyQuery](https://pyquery.readthedocs.io/) - "A jquery-like library for python."
 - [Scrapy](https://scrapy.org) - "a fast high-level web crawling & scraping framework for Python."
 - [SQLAlchemy](http://www.sqlalchemy.org/) - "the Python SQL toolkit and Object Relational Mapper that gives application developers the full power and flexibility of SQL."
